@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Developing a Python script that used BS4, urllib3, and a proxy API to scrape a university’s course catalog**
 
-- 🌱 I’m currently learning **C++ and Nueral Networks**
+- 🌱 I’m currently learning **Java and Nueral Networks**
 
 - 👯 I’m looking to collaborate on **anything software related**
 
