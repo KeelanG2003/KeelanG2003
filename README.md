@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Keelan</h1>
 
-- 🔭 I’m currently working on **Developing a Python script that used BS4, urllib3, and a proxy API to scrape a university’s course catalog**
+- 🔭 I’m currently working on **A personal website to hold all future software and hardware projects**
 
-- 🌱 I’m currently learning **Java and Nueral Networks**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **anything software related**
+- 👯 I’m looking to collaborate on **Anything software related**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
